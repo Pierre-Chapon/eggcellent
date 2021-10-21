@@ -1,0 +1,32 @@
+.banner {
+  background-color: #000000;
+  color: white;
+  padding: 150px;
+
+}
+
+
+.banner h1 {
+	font-size: 80px;
+
+}
+
+.banner h2 {
+	font-size: 20px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+
+}
+
+.banner img {
+
+   	width: 240px;
+	height: 173px;
+	left: 296px;
+	top: 107px;
+	border-radius: 0%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
